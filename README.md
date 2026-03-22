@@ -19,11 +19,9 @@ This project presents an interactive sales dashboard built using Power BI to ana
 - DAX (Data Analysis Expressions)
 - Data Cleaning & Modeling
 
-## 📁 Files Included
-- `.pbix` file (Power BI dashboard)
-
 ## 📸 Dashboard Preview
-(Add screenshots here)
+<img width="1212" height="677" alt="image" src="https://github.com/user-attachments/assets/e8dfdcf0-a9ec-4065-9832-05ebc58da599" />
+
 
 ## ▶️ How to Use
 1. Download the `.pbix` file  
